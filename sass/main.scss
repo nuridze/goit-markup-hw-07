@@ -1,4 +1,5 @@
 @import "./utils/variables";
+@import "./utils/visually-hidden";
 @import "./base/_base.scss";
 @import "./components/page-header";
 @import "./components/logo";
@@ -9,6 +10,8 @@
 @import "./components/team";
 @import "./components/clients";
 @import "./components/footer";
+@import "./components/social-networks";
+@import "./components/subscribe";
 
-//ПОРТФОЛИО
+//ПОРТФОЛИО "
 @import "./components/portfolio"

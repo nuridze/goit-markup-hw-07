@@ -10,3 +10,15 @@
       color: #000000;}
   }
   
+  .footer-logo{
+    font-family: $logo-font;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: $accent-color;
+
+    &__logo{
+      color: $title-first-color;
+    }
+  }
