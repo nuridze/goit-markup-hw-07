@@ -181,7 +181,7 @@
   .icon-wrapper {
     width: 16px;
     height: 15px;
-    border: 2px solid ¢pre-title-case;
+    border: 2px solid $pre-title-case;
     border-radius: 2px;
     margin-right: 8px;
     display: flex;
@@ -192,7 +192,7 @@
     fill: transparent;
   }
   .form-contract input:checked + .checkbox-form .agree-icon {
-    fill: ¢title-first-color;
+    fill: $title-first-color;
   }
   
   .form-contract input:checked + .checkbox-form .icon-wrapper {
